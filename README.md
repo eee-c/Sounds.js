@@ -6,17 +6,17 @@ Small library for playing sounds in games (like those written in 3D Game Program
 Support several sounds:
 
 ````javascript
-Sound.bubble.play();
-Sound.buzz.play();
-Sound.click.play();
-Sound.donk.play();
-Sound.drip.play();
-Sound.guitar.play();
-Sound.knock.play();
-Sound.scratch.play();
-Sound.snick.play();
-Sound.spring.play();
-Sound.swish.play();
+Sounds.bubble.play();
+Sounds.buzz.play();
+Sounds.click.play();
+Sounds.donk.play();
+Sounds.drip.play();
+Sounds.guitar.play();
+Sounds.knock.play();
+Sounds.scratch.play();
+Sounds.snick.play();
+Sounds.spring.play();
+Sounds.swish.play();
 ````
 
 In addition to `play()`, each sound can be repeated (and stopped):
